@@ -72,6 +72,15 @@
 3. *Ineficiência no atendimento ao usuário*:
    - Mais tempo gasto para realizar buscas e empréstimos.
 
+### Persona
+
+O objetivo do Gab é a criação de um banco de dados para o multimeios da escola presidente roosevelt.
+Se enquadra como uma persona do projeto:
+
+Um professor que fica responsável pela organização de uma biblioteca, este necessita de uma aplicação com interface simples, para que facilite seu trabalho.
+Dentro de seu trabalho inclui-se catalogar os livros recém chegados à escola, atender os alunos que querem ler algum livro, verificar se há livros disponíveis, e se haver, onde eles se localizam dentro da estrutura do multimeios.
+O projeto deve incluir principalmente a catalogação dos livros já disponíveis e novos livros
+
 ### Código da tabela multimeios 
 ```
 create database multimeios
